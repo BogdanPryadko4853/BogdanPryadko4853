@@ -23,15 +23,13 @@
 
 <h3 align="left">👩‍💻 About Me</h3>
 <p align="left">
-I am a Java developer with 1.5 years of experience in the field of enterprise application development. My journey in IT began with learning Java and has since expanded to working with frameworks and tools such as Spring, Maven, Docker, and more.
+I am a Java developer with 2 years of experience in the field of enterprise application development. My journey in IT began with learning Java and has since expanded to working with frameworks and tools such as Spring, Maven, Docker, and more.
 
 🔭 I have been involved in the development and maintenance of enterprise applications.
 
 📚 I have completed courses and trainings on Java and the Spring Framework.
 
 ⚡ In my free time, I explore new technologies and tools to enhance my skills.
-
-Currently, I am a second-year student BSTU named after V.G. Shukhov, pursuing a degree in Software Engineering (9.03.04). My academic background and practical experience have provided me with a solid foundation in software development, allowing me to contribute effectively to various projects.
 </p>
 
 
