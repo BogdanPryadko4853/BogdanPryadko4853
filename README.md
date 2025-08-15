@@ -83,8 +83,7 @@ I am a Java developer with 2 years of experience in the field of enterprise appl
 <div align="center"> <img src="https://leetcard.jacoblin.cool/Bogdan4853" height="220" alt="leetcode stats" /> 
 </div>
 
-![CF Stats](https://cf.leed.at?id=Bogdan_Pryadko_PV-232)
-
+![Codeforces](https://codeforces-readme-stats.vercel.app/api?username=Bogdan_Pryadko_PV-232&theme=gruvbox)
 
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=BogdanPryadko4853&theme=react-dark&hide_border=true&area=true)
 
