@@ -86,12 +86,6 @@ I am a Java developer with 2 years of experience in the field of enterprise appl
 
 <div align="center">
 
-## 🏆 Codeforces Stats
-
-[![CF Stats](https://cfrating.ihcr.top/?user=Bogdan_Pryadko_PV-232&theme=light&show_rank=true&show_solved=true)](https://codeforces.com/profile/Bogdan_Pryadko_PV-232)
-
-</div>
-
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=BogdanPryadko4853&theme=react-dark&hide_border=true&area=true)
 
 ![3D Profile](profile-3d-contrib/profile-night-rainbow.svg)
