@@ -25,9 +25,10 @@ I am a Java developer with 2 years of experience in the field of enterprise appl
 ⚡ In my free time, I explore new technologies and tools to enhance my skills.
 </p>
 
-
+<div align="center">
 <p align="center"><img width="600" src="https://media1.tenor.com/m/GfSX-u7VGM4AAAAd/coding.gif" alt="snake"/></p>
 <h3 align="left">🛠 Technologies:</h3>
+</div>
 
 
 
